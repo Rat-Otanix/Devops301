@@ -12,7 +12,7 @@
 	<groupId>com.rbittencourt</groupId>
 	<artifactId>jenkins-pipeline-example</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
     
 	<name>Jenkins Pipeline Example</name>
 	<description>Jenkins Pipeline Example</description>
