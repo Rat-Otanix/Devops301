@@ -4,6 +4,5 @@ spring:
       ddl-auto: create-drop
 
 server:
-  servlet:
-    context-path: /product
+  context-path: /product
 
