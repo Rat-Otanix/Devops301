@@ -3,6 +3,4 @@ spring:
     hibernate:
       ddl-auto: create-drop
 
-server:
-  servlet:
-    context-path: /product
+
